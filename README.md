@@ -4,6 +4,7 @@
 
 Regresyon Analizi için kullanılan Mean Squared Error,Mean Absolute Error,Root Mean Squared Error, R-Kare ve adjusted-R2 metriklerine göre değerlendirildiğinde en iyi model XGBOOST olarak gözlemlenmiştir. Farklı verilerle gözlem sayısı ve değişkenler arttırılır ilaveten diğer farklı algoritmalar denilirse daha başarılı sonuçlar elde edilerek bu çalışma daha güçlü hale getirilebilir.
 
+# House Price Prediction with Data Scraping, Data Analysis and Machine Learning Algorithms
 ## [EN]
 In this study, apartments for sale for Istanbul city on a real estate website were obtained by web scraping methods and a dataset was created. After applying data analysis and visualisation to the obtained data set, XGBOOST was estimated with Linear Regression, Support Vector Machine and MLPRegressor algorithms.
 
